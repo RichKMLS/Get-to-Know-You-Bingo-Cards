@@ -5,3 +5,15 @@ This is a VBA script to generate Bingo cards in Excel. Specifically, this was us
 
 More information on Get to Know You Bingo:
 https://icebreakerideas.com/people-bingo/
+
+
+ '
+ '  Import this into a new blank Excel workbook or copy and
+ '     paste into a new module.
+ '
+ '  On Sheet1, list all the items you wish to randomly generate
+ '     within a bingo card in Column A starting at A1
+ '
+ '  Sheet1 must contain at least 24 items in Column A
+ '  to generate a bingo card.
+ '
